@@ -1,3 +1,3 @@
-module github.com/zhangbaodong/gomodone
+module github.com/zhangbaodong/test
 
 go 1.16
