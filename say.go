@@ -1,4 +1,4 @@
-package gomodone
+package test
 
 import "fmt" 
 
